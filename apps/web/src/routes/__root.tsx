@@ -156,7 +156,7 @@ function RootLayout() {
             <Link to="/about" className="hover:text-foreground transition-colors">About</Link>
             <a href="https://github.com/opencutvideo/Opencut" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">GitHub</a>
             <a href="https://discord.gg/zmR9N35cjK" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">Discord</a>
-            <a href="https://x.com/opencutapp" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">Twitter / X</a>
+            <a href="https://x.com/opencutai" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">Twitter / X</a>
             <span className="text-white/20">·</span>
             <Link to="/privacy" className="hover:text-foreground transition-colors">Privacy</Link>
             <Link to="/cookies" className="hover:text-foreground transition-colors">Cookies</Link>

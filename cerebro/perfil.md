@@ -1,0 +1,57 @@
+# Perfil · fatos confirmados
+
+Fonte: skills cerebro-dr-bruno, conteudo-instagram-dr-bruno e formulas-exames-dr-bruno (out/2026) e preferências do Bruno no claude.ai. O que não está confirmado fica em Pendências e não vai para peça pública.
+
+## Identidade
+
+- Nome: Dr. Bruno Franco Vitusso
+- Assinatura pública: Dr. Bruno Franco Vitusso · Médico · CRM-SP 276248
+- Também possui CRM-SC 41384 (usar só quando a peça for para Santa Catarina).
+- Atuação: consultório (Clínica Vitusso), pronto atendimento, atendimento pré-hospitalar e telemedicina.
+- Local presencial: Rua Rio Branco, 13-83, Centro, Bauru/SP (Clínica Vitusso).
+- WhatsApp principal: (14) 3206-5676.
+- Telemedicina para todo o estado e o país.
+- Formação em andamento: pós-graduação em Psiquiatria Adulto (Einstein, EAD, 2026/2027). Comunicar como "pós-graduando em Psiquiatria". Não há RQE.
+- Nunca usar como título: "psiquiatra", "especialista", "Medicina Integrativa". "Abordagem integrativa" pode aparecer no corpo do texto como jeito de cuidar.
+- Valor da consulta: só em resposta direta a quem procurou, depois de acolher e explicar. Nunca em conteúdo público.
+
+## Voz
+
+Sereno, seguro, direto, humano, culto sem ser distante, como médico explicando para alguém da família. Sem travessão, sem jargão corporativo, frases completas, negrito só quando muda a leitura, emoji com moderação e nunca em assunto sério, termo técnico com explicação simples.
+
+## Personas
+
+- Camila, 34 (principal): cansada, ansiosa, dorme mal.
+- Rafael, 38 (principal): quer emagrecer e render mais; entra por performance e check-up.
+- Dona Marta, 60 (secundária): check-up, decide pela família.
+- Paciente a distância (secundária): interior de SP e Planalto Norte de SC, telemedicina.
+
+## Pilares e meta de proporção
+
+| Código | Pilar | Meta |
+|---|---|---|
+| P1 | Saúde mental | 30% |
+| P2 | Clínica e prevenção | 25% |
+| P3 | Emagrecimento e performance | 15% |
+| P4 | Rotina e descanso | 15% |
+| P5 | Bruno (bastidores) | 15% |
+
+## Funil
+
+descoberta, identificação, confiança, conversa, consulta, acompanhamento, indicação.
+
+## Lições validadas
+
+- Bastidor real é o que mais traz seguidor.
+- Saúde mental com dado sério gera compartilhamento.
+- Legenda longa e post só de contato não circulam.
+- Faltava slide final que valesse salvar.
+
+## Identidade visual
+
+Editorial clínico. Papel #EDEDED 60%, Marinho #1D3142 25%, Ardósia #5C6A75 10%, Dourado fosco #A88A54 5%. Instrument Serif (títulos), DM Sans (texto), Courier Prime (rótulos e numeração). Retrato duotone marinho, monograma BV, fio dourado fino. Carrossel 1080 × 1350, 6 slides, último com chamada e assinatura.
+
+## Pendências (não usar em peça até confirmar)
+
+- Arroba do Instagram: as skills dizem @drbrunovitusso (sem ponto); as preferências do claude.ai dizem @drbruno.vitusso. Confirmar qual é o perfil profissional ativo e corrigir a fonte errada.
+- Hub compartilhado (Notion ou Google Drive): confirmar se existe e qual o link.

@@ -24,6 +24,7 @@ Regras:
 
 - Nada de dado de paciente, CPF, telefone de terceiro ou conversa privada no banco.
 - Ganchos não usados também entram, com o tema e o ângulo, porque viram matéria-prima de peças futuras.
+- Arroba do Instagram é sempre @drbrunovitusso, sem ponto.
 - Aprendizado só entra com evidência (ID da peça ou número que o sustenta).
 - Fonte entra com ano, nível de evidência e link ou PMID.
 

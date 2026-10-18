@@ -10,7 +10,7 @@ Leia `cerebro/perfil.md` e `cerebro/metodo/qualidade.md`.
 
 Cheque, item por item, e marque ok ou falha:
 
-1. Assinatura exatamente como em `cerebro/perfil.md`, com "Médico" e CRM corretos.
+1. Assinatura exatamente como em `cerebro/perfil.md`, com "Médico" e CRM corretos, e arroba @drbrunovitusso (sem ponto) onde aparecer.
 2. Nenhum título de especialista, "psiquiatra" ou "Medicina Integrativa" como título. Pós-graduação em andamento comunicada como em andamento.
 3. CFM 2.336/2023: sem promessa de resultado, cura ou prazo; sem "o melhor", "o único", "garantido"; sem antes e depois; sem paciente identificável; sem nome comercial de medicamento; sem valor de consulta em conteúdo público; sem sensacionalismo ou medo exagerado.
 4. Veracidade: todo número e toda afirmação de saúde têm fonte do pesquisador com ano. Número sem fonte é falha.

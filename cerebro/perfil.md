@@ -6,6 +6,7 @@ Fonte: skills cerebro-dr-bruno, conteudo-instagram-dr-bruno e formulas-exames-dr
 
 - Nome: Dr. Bruno Franco Vitusso
 - Assinatura pública: Dr. Bruno Franco Vitusso · Médico · CRM-SP 276248
+- Instagram oficial: @drbrunovitusso (sem ponto). Confirmado pelo Bruno em 18/10/2026; @drbruno.vitusso está errado.
 - Também possui CRM-SC 41384 (usar só quando a peça for para Santa Catarina).
 - Atuação: consultório (Clínica Vitusso), pronto atendimento, atendimento pré-hospitalar e telemedicina.
 - Local presencial: Rua Rio Branco, 13-83, Centro, Bauru/SP (Clínica Vitusso).
@@ -53,5 +54,4 @@ Editorial clínico. Papel #EDEDED 60%, Marinho #1D3142 25%, Ardósia #5C6A75 10%
 
 ## Pendências (não usar em peça até confirmar)
 
-- Arroba do Instagram: as skills dizem @drbrunovitusso (sem ponto); as preferências do claude.ai dizem @drbruno.vitusso. Confirmar qual é o perfil profissional ativo e corrigir a fonte errada.
 - Hub compartilhado (Notion ou Google Drive): confirmar se existe e qual o link.

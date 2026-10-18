@@ -55,3 +55,5 @@ Editorial clínico. Papel #EDEDED 60%, Marinho #1D3142 25%, Ardósia #5C6A75 10%
 ## Pendências (não usar em peça até confirmar)
 
 - Hub compartilhado (Notion ou Google Drive): confirmar se existe e qual o link.
+- Erros encontrados nos posts publicados (coleta de 18/10/2026): o post de 19/09 traz o telefone (14) 3206-6576, diferente do oficial (14) 3206-5676; os posts alternam o endereço entre 13-81 e 13-83; o post de 06/08 diz "especialização em psiquiatria pelo Hospital Albert Einstein", e o correto é pós-graduação em andamento; três legendas usam #medicinaintegrativa ou "dentro da medicina integrativa" como posicionamento. Confirmar o número oficial do endereço e corrigir as legendas.
+- Bio atual traz "Não especialista" como linha própria, e o site é um subdomínio drbrunovitusso.netlify.app.

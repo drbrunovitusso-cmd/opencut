@@ -10,11 +10,19 @@ Fonte: skills cerebro-dr-bruno, conteudo-instagram-dr-bruno e formulas-exames-dr
 - Também possui CRM-SC 41384 (usar só quando a peça for para Santa Catarina).
 - Atuação: consultório (Clínica Vitusso), pronto atendimento, atendimento pré-hospitalar e telemedicina.
 - Local presencial: Rua Rio Branco, 13-83, Centro, Bauru/SP (Clínica Vitusso).
-- WhatsApp principal: (14) 3206-5676.
+- WhatsApp principal: (14) 3206-5676 (clínica, agenda presencial).
+- WhatsApp do Bruno: (47) 99605-5706 (telemedicina e dúvidas), como está na página do link da bio.
+- Endereço completo usado no link da bio: Rua Rio Branco, 13-83, Sala 04, Centro, Bauru/SP, dentro do Hospital Beneficência Portuguesa.
 - Telemedicina para todo o estado e o país.
 - Formação em andamento: pós-graduação em Psiquiatria Adulto (Einstein, EAD, 2026/2027). Comunicar como "pós-graduando em Psiquiatria". Não há RQE.
 - Nunca usar como título: "psiquiatra", "especialista", "Medicina Integrativa". "Abordagem integrativa" pode aparecer no corpo do texto como jeito de cuidar.
 - Valor da consulta: só em resposta direta a quem procurou, depois de acolher e explicar. Nunca em conteúdo público.
+
+## Produtos e canais
+
+- Guia em PDF "Cansado de estar cansado?" (45 páginas, coautoria com o Dr. Nilson José Vitusso, Cirurgião Geral, CRM-SP 66338, RQE 48372). R$ 29,99 até 31/10/2026, R$ 49,90 a partir de 01/11/2026. Venda pela Kiwify, garantia de 7 dias. Página: https://cansado-de-estar-cansado.netlify.app/
+- Link da bio: https://drbrunovitusso.netlify.app (guia, dois WhatsApp, avaliação no Google, Maps e Waze).
+- Perfis parceiros: @nilsonvitusso.dr e @clinicavitusso.
 
 ## Voz
 
@@ -56,4 +64,6 @@ Editorial clínico. Papel #EDEDED 60%, Marinho #1D3142 25%, Ardósia #5C6A75 10%
 
 - Hub compartilhado (Notion ou Google Drive): confirmar se existe e qual o link.
 - Erros encontrados nos posts publicados (coleta de 18/10/2026): o post de 19/09 traz o telefone (14) 3206-6576, diferente do oficial (14) 3206-5676; os posts alternam o endereço entre 13-81 e 13-83; o post de 06/08 diz "especialização em psiquiatria pelo Hospital Albert Einstein", e o correto é pós-graduação em andamento; três legendas usam #medicinaintegrativa ou "dentro da medicina integrativa" como posicionamento. Confirmar o número oficial do endereço e corrigir as legendas.
+- O post de 07/10 (polo aquático) assina "Dr. Bruno Vitusso | CRM/SP 276248 / Medicina Integrativa": é título sem RQE e precisa ser editado já. A mesma legenda tem erros de digitação (Enredereço, clinco, ào). O post do guia (15/10) usa #medicinaintegrativa.
+- Especialidade do RQE 48372 do Dr. Nilson: o post de 07/10 diz "Cirurgião aparelho Digestivo" e o guia e o link da bio dizem "Cirurgião Geral". Confirmar antes de qualquer peça em collab.
 - Bio atual traz "Não especialista" como linha própria, e o site é um subdomínio drbrunovitusso.netlify.app.

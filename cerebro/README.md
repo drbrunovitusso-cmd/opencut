@@ -13,6 +13,7 @@ Nesta sessão do Claude Code, peça normalmente ("cria um carrossel sobre insôn
 - `cerebro/perfil.md` fatos confirmados e pendências.
 - `cerebro/metodo/` brainstorm, lacunas, roteamento de ferramentas, qualidade.
 - `cerebro/templates/` briefing, entrega de peça, campanha, relatório.
+- `cerebro/entregas/` campanhas e calendários prontos para aprovar e publicar.
 - `cerebro/banco/` banco em JSONL (peças, ganchos, fontes, campanhas, aprendizados) e esquema.
 - `cerebro/scripts/banco.mjs` consulta e registro no banco, sem dependências (Node 18+).
 
